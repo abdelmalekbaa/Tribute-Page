@@ -10,11 +10,13 @@ body{
   text-align: center;
 }
 h1{
-  font-size: 4rem;
+  font-size: 40px;
   margin-bottom=0;
+  text-align: center;
 }
 h2{
-  font-size: 3.25rem;
+  font-size: 18px;
+  text-align: center;
 }
 a:visited{
   color:#74638f;
