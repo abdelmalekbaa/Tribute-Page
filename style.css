@@ -1,8 +1,13 @@
 body{
     font-size: 1.6rem;
-    line-height: 1.5;
+    line-height: 1.2;
     color: #333;
     margin: 0;
+    margin-top: 60px;
+}
+.dr{
+  font-size: 19px;
+  text-align: center;
 }
 h1{
   font-size: 4rem;
@@ -24,11 +29,11 @@ img{
   max-width: 100%;
   display: block;
   height: auto;
-  margin:0 auto;
+  margin: auto;
 }
 #img-div {
   background: white;
-  padding: 10px;
+  padding: 20px;
   margin: 0;
 }
 #img-caption {
@@ -46,6 +51,11 @@ ul {
 }
 li {
   margin: 16px 0;
+  font-size: 15px;
+  list-style-type: disc;
+  list-style-position: inside;
+  text-indent: -1em;
+  
 }
 blockquote {
   font-style: italic;
@@ -57,5 +67,19 @@ blockquote {
 .marg {
  width: 40%;
  margin: auto;
- 
+
+}
+
+.foter{
+width:40%;
+margin: auto;
+}
+.it{
+  font: italic;
+  font-size: 16px;
+}
+.all{
+  width: 60%;
+margin: auto;
+font-size:19px ;
 }
